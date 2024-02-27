@@ -11,9 +11,9 @@ Gross margin=[net sales]-[COGS]
 
 GM%= DIVIDE([Gross Margin],[net sales],0)
 
-sales 2020 vs 2021=divide([net_sales_2022],[net sales 2020],0)
+sales 2020 vs 2021=divide([net_sales_2021],[net sales 2020],0)
 
 Target-2021=[net_sales_2022]-[Target2021]
 
-2020 Vs 2021 sales= DIVIDE([net_sales_2021],[net sales 2020],0)
+2020 Vs 2019 sales= DIVIDE([net_sales_2020],[net sales 2019],0)
 
